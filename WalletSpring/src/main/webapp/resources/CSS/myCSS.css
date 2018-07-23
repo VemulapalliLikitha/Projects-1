@@ -1,0 +1,83 @@
+errMessage{
+color: red;
+font-size: 12;
+font-style: italic;
+}
+
+#imgcnt1{
+	width:500px;
+	margin-left: 500px;
+}
+#homep{
+	background-image:; 
+	background-color: #d5f9f4;
+}
+
+#back{
+	
+}
+#bankcnt{
+	width : 1350px;
+	display: inline-block;
+	background-color: purple;
+}
+
+#menuCnt{
+	margin: 2px;
+	float: left;
+	display: inline-block;
+}
+
+#menuCnt ul li a:link{
+	margin:0px;
+	text-decoration: none;
+	margin-left: 5px;
+	margin-top:50px;
+	color:white;
+}
+
+#menuCnt ul li{
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	border-bottom:1px solid;
+	border-bottom-color: white;
+	
+}
+
+#menuCnt ul li{
+	width: 150px;
+	height: 30px;
+	background-color:purple;
+	padding: 10px 10px 10px 10px;
+}
+
+#menuCnt ul li a:active{
+	color:white;
+}
+
+#menuCnt ul li a:visited{
+	color:white;
+}
+#maincnt{
+	width : 900px;
+	display: inline-block;
+}
+h1{
+	color:white;
+}
+#content{
+	width: 800px;
+	display: block;
+}
+
+#frm{
+	background-color:white;
+	margin: 2px;
+	display: inline-block;
+	width: 550px;
+	height: 380px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
